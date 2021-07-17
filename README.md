@@ -13,9 +13,9 @@ Software:
 Jupyter Notebook, Anaconda 4.10.1, Python 3.7.6, Visual Studio Code 1.56.0
  
 Code:<br/> 	
-[index.html](static/index.html) <br/>
-[style.css](static/css/style.css) <br/>
-[challenge_logic.js](static/js/challenge_logic.js) <br/>
+[index.html](Earthquake_challenge/static/index.html) <br/>
+[style.css](Earthquake_challenge/static/css/style.css) <br/>
+[challenge_logic.js](Earthquake_challenge/static/js/challenge_logic.js) <br/>
 		
 
 Images:<br/>
