@@ -13,9 +13,9 @@ Software:
 Jupyter Notebook, Anaconda 4.10.1, Python 3.7.6, Visual Studio Code 1.56.0
  
 Code:<br/> 	
-[index.html](Earthquake_Challenge/static/index.html) <br/>
-[style.css](Earthquake_Challenge/static/css/style.css) <br/>
-[challenge_logic.js](Earthquake_Challenge/static/js/challenge_logic.js) <br/>
+[index.html](static/index.html) <br/>
+[style.css](static/css/style.css) <br/>
+[challenge_logic.js](static/js/challenge_logic.js) <br/>
 		
 
 Images:<br/>
@@ -25,13 +25,13 @@ Images:<br/>
 ## Visuals:
 
 Streets View with Earthquake Overlay
-[map1.png](Earthquake_Challenge/static/images/map1.png) <br/>
+![map1.png](Earthquake_Challenge/static/images/map1.png) <br/>
 
 Satellite View with Tectonic Plate Overlay
-[map2.png](Earthquake_Challenge/static/images/map2.png) <br/>
+![map2.png](Earthquake_Challenge/static/images/map2.png) <br/>
 
 Dark View with Major Earthquakes Overlay
-[map3.png](Earthquake_Challenge/static/images/map3.png) <br/>
+![map3.png](Earthquake_Challenge/static/images/map3.png) <br/>
 
 
 ## Summary:
