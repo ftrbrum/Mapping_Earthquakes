@@ -13,13 +13,13 @@ Software:
 Jupyter Notebook, Anaconda 4.10.1, Python 3.7.6, Visual Studio Code 1.56.0
  
 Code:<br/> 	
-[index.html](Earthquake_challenge/static/index.html) <br/>
-[style.css](Earthquake_challenge/static/css/style.css) <br/>
-[challenge_logic.js](Earthquake_challenge/static/js/challenge_logic.js) <br/>
+[index.html](Earthquake_challenge/index.html) <br/>
+[style.css](Earthquake_Challenge/static/css/style.css) <br/>
+[challenge_logic.js](Earthquake_Challenge/static/js/challenge_logic.js) <br/>
 		
 
 Images:<br/>
-[images](Earthquake_challenge/static/images) <br/>	
+[images](Earthquake_Challenge/static/images) <br/>	
 
 
 ## Visuals:
